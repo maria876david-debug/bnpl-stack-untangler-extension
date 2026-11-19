@@ -1,0 +1,5 @@
+# BNPL or Credit Card: Which One Costs More When You Miss a Payment?
+
+Buy now, pay later and credit cards both let you pay over time, but a missed payment costs you differently on each. A BNPL plan usually has a fixed schedule and a late fee that is written into the plan - miss once and the fee lands, miss again and the plan can be closed or sent to collections. A credit card charges interest on the whole balance from the day you miss, and the interest keeps running every month until the balance is cleared. The honest comparison is not the headline rate - it is what happens on a bad month. BNPL is cheaper when you pay on time and the plan is interest-free, because the total is fixed. A credit card is more forgiving when life gets in the way, because you can pay the minimum and keep the account open - but that forgiveness is expensive over time. Whichever you use, the rule is the same: know the due date, know the fee, and never open a second plan to cover the first.
+
+Learn how to keep several plans straight without missing a due date: https://bnplstackuntangler.com
